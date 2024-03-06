@@ -1,13 +1,31 @@
-.parent-styles {
+.parent-block1 {
   background-color: #a0d549;
-  height: 300px;
+  height: 100px;
   font-weight: bold;
 }
-.parent-styles__title {
+.parent-block1__title {
   background-color: blueviolet;
   color: chocolate;
+  padding-left: 30px;
 }
-.parent-styles__title-subtitle {
+.parent-block1__title-subtitle {
   background-color: #63da74;
   color: brown;
+  padding-left: 30px;
+}
+
+.parent-block2 {
+  background-color: #49d557;
+  height: 100px;
+  font-weight: bold;
+}
+.parent-block2__title {
+  background-color: rgb(10, 72, 120);
+  color: chocolate;
+  padding-left: 30px;
+}
+.parent-block2__title-subtitle {
+  background-color: #48cef7;
+  color: brown;
+  padding-left: 30px;
 }/*# sourceMappingURL=style-predprocessor.css.map */
