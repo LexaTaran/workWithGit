@@ -1,0 +1,13 @@
+.parent-styles {
+  background-color: #a0d549;
+  height: 300px;
+  font-weight: bold;
+}
+.parent-styles__title {
+  background-color: blueviolet;
+  color: chocolate;
+}
+.parent-styles__title-subtitle {
+  background-color: #63da74;
+  color: brown;
+}/*# sourceMappingURL=style-predprocessor.css.map */
