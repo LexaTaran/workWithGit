@@ -1,0 +1,15 @@
+.parent-styles{
+    background-color: #a0d549;
+    height: 300px;
+    font-weight: bold;
+
+        &__title{
+            background-color: blueviolet;
+            color: chocolate;
+            
+            &-subtitle{
+                background-color: #63da74;
+                color: brown;
+            }
+        }
+}
